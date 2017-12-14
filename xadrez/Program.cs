@@ -13,13 +13,31 @@ namespace xadrez
         static void Main(string[] args)
         {
 
-            PosicaoXadrez pos = new PosicaoXadrez('b', 2);
+              try
+            {
+                Tabuleiro tab = new Tabuleiro(8, 8);
 
-            Console.WriteLine(pos);
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0,1));
+                tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(1, 3));
+                tab.colocarPeca(new Rei(tab, Cor.Preta), new Posicao(0, 2));
 
-            Console.WriteLine(pos.toPosicao());
+                tab.colocarPeca(new Torre(tab, Cor.Branca), new Posicao(3, 5));
 
-            Console.ReadLine();
-        }
+                Tela.imprimirTabuleiro(tab);
+            }
+          
+            catch (TabuleiroExceptions e)
+            {
+                Console.WriteLine(e.Message);
+            }
+
+              // PosicaoXadrez pos = new PosicaoXadrez('b', 2);
+
+              //  Console.WriteLine(pos);
+
+              //  Console.WriteLine(pos.toPosicao());
+
+                Console.ReadLine();
+         }
     }
 }
