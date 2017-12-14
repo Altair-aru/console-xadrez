@@ -13,7 +13,7 @@ namespace xadrez
         static void Main(string[] args)
         {
 
-            PosicaoXadrez pos = new PosicaoXadrez('a', 1);
+            PosicaoXadrez pos = new PosicaoXadrez('b', 2);
 
             Console.WriteLine(pos);
 
