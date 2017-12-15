@@ -5,3 +5,10 @@ D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\xadrez\obj\Debug\xadrez.cs
 D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\xadrez\obj\Debug\xadrez.csproj.CoreCompileInputs.cache
 D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\xadrez\obj\Debug\xadrez.exe
 D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\xadrez\obj\Debug\xadrez.pdb
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\bin\Debug\xadrez.exe.config
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\bin\Debug\xadrez.exe
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\bin\Debug\xadrez.pdb
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\obj\Debug\xadrez.csprojResolveAssemblyReference.cache
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\obj\Debug\xadrez.csproj.CoreCompileInputs.cache
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\obj\Debug\xadrez.exe
+D:\Udemy C# Orientado a Objetos\xadrez\console-xadrez\console-xadrez\xadrez\obj\Debug\xadrez.pdb
